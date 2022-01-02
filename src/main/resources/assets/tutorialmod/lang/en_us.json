@@ -1,0 +1,25 @@
+{
+	"item.tutorialmod.example_item": "Example Item",
+	"item.tutorialmod.example_food": "Example Food",
+	
+	"item.tutorialmod.example_sword": "Example Sword",
+	"item.tutorialmod.example_pickaxe": "Example Pickaxe",
+	"item.tutorialmod.example_shovel": "Example Shovel",
+	"item.tutorialmod.example_axe": "Example Axe",
+	"item.tutorialmod.example_hoe": "Example Hoe",
+	
+	"item.tutorialmod.example_helmet": "Example Helmet",
+	"item.tutorialmod.example_chestplate": "Example Chestplate",
+	"item.tutorialmod.example_leggings": "Example Leggings",
+	"item.tutorialmod.example_boots": "Example Boots",
+	
+	"block.tutorialmod.example_block": "Example Block",
+	"block.tutorialmod.special_block": "Special Block",
+	"block.tutorialmod.example_stairs": "Example Stairs",
+	"block.tutorialmod.example_fence": "Example Fence",
+	"block.tutorialmod.example_button": "Example Button",
+	"block.tutorialmod.example_pressure_plate": "Example Pressure Plate",
+	
+	
+	"itemGroup.tutorialtab": "Tutorial Tab"
+}
